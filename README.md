@@ -1,5 +1,5 @@
 # PyBer_Analysis
-## V. Isualize wants to analyze all the rideshare data from January to early May of 2019 
+### V. Isualize wants to analyze all the rideshare data from January to early May of 2019 
 We want to create a visual representation of the data of rideshare for the total numbers of rides, the total number of drivers, the fares, the average fare per ride, and the average fare per driver the for the 3 city type in urban, rural, and suburban areas. 
 ##  Resources used
 •	Data Source: city_data.csv and ride_data.csv
